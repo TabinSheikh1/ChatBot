@@ -1,1 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Virtual Environment
+venv/
+venv_clean/
+.env
+
+# Streamlit
+.streamlit/
+
+# Vector DB / RAG
+vectordb/
+*.faiss
+*.pkl
+
+# HuggingFace / Models
+.cache/
+models/
+sentence-transformers/
+
+# OS
+.DS_Store
+Thumbs.db

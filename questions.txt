@@ -1,0 +1,26 @@
+venv\Scripts\activate
+streamlit run app.py
+
+“What are the common football formations?” ok
+
+“Tell me about the 4-3-3 formation.” ok
+
+“Name some famous football clubs.” ok
+
+“Which legendary matches are mentioned?” ok
+
+“What is possession play?” ok
+
+“Who are some famous football coaches?” ok
+
+“How long is a football match?” ok
+
+“What is the offside rule?” ok
+
+“Name some major football competitions.” ok
+
+“What positions do players have?” ok
+
+“What is a corner kick?” ok
+
+“Which players are considered famous?” ok
